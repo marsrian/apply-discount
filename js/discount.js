@@ -1,8 +1,3 @@
-// function getElementByIid() {
-    
-// }
-
-
 document.getElementById("apply-btn").addEventListener("click", function(){
     const originalPriceElement = document.getElementById("original-price");
     const originalPriceAmountString = originalPriceElement.value;
